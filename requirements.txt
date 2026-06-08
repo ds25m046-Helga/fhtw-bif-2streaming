@@ -1,3 +1,5 @@
 pyarrow
 pyspark==3.4.4
 mrjob
+pandas
+psycopg2
